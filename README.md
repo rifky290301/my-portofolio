@@ -8,7 +8,7 @@ Hi, I'm Rifky, a passionate Mobile Developer with expertise in Flutter. I focus 
 
 ## Skills
 
-- **Programming Languages**: Dart, JavaScript, PHP
+- **Programming Languages**: Dart, Swift, Kotlin, JavaScript, PHP
 - **Frameworks & Tools**: Flutter, Laravel, Vue.js, Nuxt.js
 - **State Management**: BLoC, Provider, GetX
 - **Backend**: Node.js, Firebase
